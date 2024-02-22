@@ -14,4 +14,6 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
 
 /* Add your custom styles here */
 
-
+div#rt-tpg-container-2690133202 {
+    display: none!important;
+}
