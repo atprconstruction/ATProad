@@ -21,7 +21,6 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
 	}
 }
 ?>
-<p>sample commit</p>
 <?php wp_footer(); ?>
 
 </body>
